@@ -1,0 +1,2 @@
+for value in range(startvalue,endvalue,stepvalue):
+        print(value*value,end=" ")
